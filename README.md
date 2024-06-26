@@ -26,3 +26,45 @@ Os passos para completar este desafio serão detalhados a seguir e estarão disp
 - Exibição de Resultados aos Usuários;
 
 ---
+
+  ## Exemplo de uso:
+---
+    Selecione uma das seguintes moedas a ser convertida:
+    1 - UYU  Uruguayan Peso Uruguay
+    2 - ARS  Argentine Peso Argentina
+    3 - MXN  Mexican Peso Mexico
+    4 - EUR  Euro European Union
+    5 - BOB  Bolivian Boliviano Bolivia
+    6 - COP  Colombian Peso Colombia
+    7 - VES  Venezuelan Bolívar Soberano	Venezuela
+    8 - CLP  Chilean Peso Chile
+    9 - CAD  Canadian Dollar	Canada
+    10 - USD  United States Dollar United States
+    11 - PEN  Peruvian Sol Peru
+    12 - BRL  Brazilian Real Brazil
+    
+    12
+   
+    Moeda a ser convertida selecionada: BRL
+    Agora selecione uma das moedas para a conversão
+    1 - UYU  Uruguayan Peso Uruguay
+    2 - ARS  Argentine Peso Argentina
+    3 - MXN  Mexican Peso Mexico
+    4 - EUR  Euro European Union
+    5 - BOB  Bolivian Boliviano Bolivia
+    6 - COP  Colombian Peso Colombia
+    7 - VES  Venezuelan Bolívar Soberano	Venezuela
+    8 - CLP  Chilean Peso Chile
+    9 - CAD  Canadian Dollar	Canada
+    10 - USD  United States Dollar United States
+    11 - PEN  Peruvian Sol Peru
+    X - BRL  Brazilian Real Brazil ( Já selecionado )
+    
+    4
+    
+    Digite o valor para a conversão
+    
+    20.50
+    
+    O valor de 20.5BRL convertidos para EUR é:
+    3.5403499999999997
