@@ -28,7 +28,7 @@ Os passos para completar este desafio serão detalhados a seguir e estarão disp
 ---
 
   ## Exemplo de uso:
----
+
     Selecione uma das seguintes moedas a ser convertida:
     1 - UYU  Uruguayan Peso Uruguay
     2 - ARS  Argentine Peso Argentina
