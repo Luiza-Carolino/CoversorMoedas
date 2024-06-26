@@ -58,6 +58,7 @@ Os passos para completar este desafio serão detalhados a seguir e estarão disp
     9 - CAD  Canadian Dollar	Canada
     10 - USD  United States Dollar United States
     11 - PEN  Peruvian Sol Peru
+
     X - BRL  Brazilian Real Brazil ( Já selecionado )
     
     4
@@ -68,3 +69,5 @@ Os passos para completar este desafio serão detalhados a seguir e estarão disp
     
     O valor de 20.5BRL convertidos para EUR é:
     3.5403499999999997
+
+![Badge-Conversor](https://github.com/Luiza-Carolino/CoversorMoedas/assets/110407326/1cfda03f-48f4-4a1e-a0c6-e7a7a8f0984a)
